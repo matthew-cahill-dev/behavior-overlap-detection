@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b1",
+    "description": "Say hello to the customer when they greet you."
+  },
+  {
+    "id": "b2",
+    "description": "Greet the customer politely when they say hello."
+  },
+  {
+    "id": "b3",
+    "description": "Always thank the customer after solving their problem."
+  },
+  {
+    "id": "b4",
+    "description": "Say hello to the customer when they greet you."
+  },
+  {
+    "id": "b5",
+    "description": "Never argue with the customer."
+  },
+  {
+    "id": "b6",
+    "description": "Never argue with a customer."
+  }
+]

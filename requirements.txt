@@ -1,0 +1,2 @@
+# requirements.txt
+# For string matching only, uses built-in difflib but you may list Python itself
