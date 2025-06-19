@@ -32,6 +32,4 @@ python3 -m unittest test_main.py
 
 - Add more realistic test data
 - Expand the conflict checker logic
-- Try connecting to Amigo’s live API instead of JSON
-
-## 🚀 Happy testing!
+- Try connecting to a company's live API instead of JSON
