@@ -1,4 +1,4 @@
-# Dev-Demo
+# Behavior Overlap Detection
 
 This is a simple offline toolset to practice behavior overlap detection.
 
